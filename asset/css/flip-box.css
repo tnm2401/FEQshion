@@ -95,6 +95,7 @@ h2{
 	font-size: 14px;
 	text-align: center;
 	font-family: "Dejavu";	
+	
 }
 
 
@@ -167,6 +168,7 @@ h2{
     -webkit-perspective-origin: left; /* Safari 4-8  */    
     perspective: 100px;
     perspective-origin: left; 
+	
 }
 .flip-boxes-style-classic-right .single-flip-box .box-back-side {
 	background-color: #fff;
