@@ -1456,11 +1456,14 @@ span.re{
     left: 0;
     height: 100%;
 }
+.bg-des-detail{
+    background: url('img/bgdes.png');
+    background-size: 100% 100%;
+    padding: 60px 80px;
+    height: auto;
+}
 .box-full-info-des{
-    padding: 30px 70px;
-    position: absolute;
-    top: 20px;
-    left: 0;
+    position: relative;
 }
 .single-same-project{
     grid-gap: 10px;
