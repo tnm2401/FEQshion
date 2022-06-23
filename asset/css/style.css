@@ -1449,6 +1449,7 @@ span.re{
 .content-detail p{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
+    text-align: justify;
 }
 .imgbg-des{
     position: absolute;
@@ -1457,9 +1458,9 @@ span.re{
     height: 100%;
 }
 .bg-des-detail{
-    background: url('img/bgdes.png');
+    background: url('../../img/bgdes.png');
     background-size: 100% 100%;
-    padding: 60px 80px;
+    padding: 60px 80px!important;
     height: auto;
 }
 .box-full-info-des{
